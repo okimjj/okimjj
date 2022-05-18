@@ -9,6 +9,7 @@ ok, i am jj,
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black">
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white">
   <img src="https://img.shields.io/badge/json-000000?style=for-the-badge&logo=JSON&logoColor=white">
+
   <br><br>
   <b>loving</b><br>
   🎵🎸🍕🍗🍍🚗🎾⚾⚽
