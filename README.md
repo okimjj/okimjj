@@ -2,7 +2,7 @@ ok, i am jj,
 
 <div align = "center">
   <span align = "center" font-size = "xx-large"><b>learning</b></span>💻<br>
-  <img src="https://img.shields.io/badge/Java-5382A1?style=for-the-badge&logo=Java&logoColor=f89820">
+  <img src="https://img.shields.io/badge/Java-f89820?style=for-the-badge&logo=Java&logoColor=5382a1">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
