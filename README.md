@@ -9,11 +9,9 @@
   <br>
   <img src="https://img.shields.io/badge/axios-5a29e4?style=for-the-badge&logo=axios&logoColor=fff">
   <img src="https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=fff">
-  <img src="https://img.shields.io/badge/jwt-d63aff?style=for-the-badge&logo=jsonwebtokens&logoColor=00f2e6">
   <img src="https://img.shields.io/badge/mui-007fff?style=for-the-badge&logo=mui&logoColor=fff">
-  <br>
-  <img src="https://img.shields.io/badge/npm-cb3837?style=for-the-badge&logo=npm&logoColor=fff">
   <img src="https://img.shields.io/badge/Linux-fcc624?style=for-the-badge&logo=Linux&logoColor=000">
+  <br>
   <br>
   <!-- <img src="https://img.shields.io/badge/node.js-fff?style=for-the-badge&logo=node.js&logoColor=339933"> -->
   <b>glhf🤙 <br> 🔵⚪🔴</b>
