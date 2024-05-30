@@ -2,7 +2,6 @@
 <b>ok, i am jj<b/>
 <br><br>
 
-  <span font-size = "xx-large"><b>living and learning</b></span>💻<br>
   <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=JavaScript&logoColor=000">
   <img src="https://img.shields.io/badge/typescript-3178c6?style=for-the-badge&logo=typescript&logoColor=fff">
   <img src="https://img.shields.io/badge/react-23272f?style=for-the-badge&logo=react&logoColor=61dafb">
@@ -14,5 +13,6 @@
   <br>
   <br>
   <!-- <img src="https://img.shields.io/badge/node.js-fff?style=for-the-badge&logo=node.js&logoColor=339933"> -->
+  <span font-size = "xx-large"><b>live and learn</b></span>💻<br>
   <b>glhf🤙 <br> 🔵⚪🔴</b>
 </div>
